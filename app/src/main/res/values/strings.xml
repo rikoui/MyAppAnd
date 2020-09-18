@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="login_name">登录</string>
+    <string name="register_name">注册</string>
+    <string name="login_hint">请输入账户</string>
+    <string name="pwd_hint">请输入密码</string>
+    <string name="pwds_hint">请确认密码</string>
+</resources>
